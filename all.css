@@ -1,0 +1,10 @@
+#grad
+{
+
+border: 2px solid rgb(22, 22, 22);
+font-family: 'Times New Roman', Times, serif;
+background-image: linear-gradient(rgb(132, 49, 143),rgb(224, 206, 228)); height: 800px;
+}
+h2{
+background-image: linear-gradient(rgb(132, 49, 143),rgb(224, 206, 228));
+}
